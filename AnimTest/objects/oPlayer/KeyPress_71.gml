@@ -1,0 +1,1 @@
+camera_keyframe_start("test", 5);
